@@ -1,0 +1,1 @@
+This project will measure the timing for both the slab and slub memory allocation methods when creating threads in user space.
