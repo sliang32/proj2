@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define FILE_PATH "/proc/lfprng"
+#define FILE_PATH "/proc/getPid"
 
 pthread_mutex_t mute;
 pthread_cond_t cond;
